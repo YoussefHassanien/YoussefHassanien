@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a Biomedical and Healthcare Data Engineering student at Cairo University Faculty of Engineering who is passionate about software development and love creating innovative solutions and exploring new technologies. I enjoy tackling complex problems and turning ideas into reality through code.
+I'm a Biomedical and Healthcare Data Engineering student at Cairo University Faculty of Engineering who is passionate about software development and currently seeking for summer internships or part-time opportunities.
 
 ## 🛠️ Technologies & Tools
 
