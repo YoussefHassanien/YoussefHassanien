@@ -27,6 +27,14 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Desktop Development
+
+![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
+
 ### Backend Development
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -35,6 +43,8 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Databases
 
@@ -54,24 +64,39 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+### AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Computer Graphics
+
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefHassanien&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefHassanien&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefHassanien&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YoussefHassanien&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YoussefHassanien&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefHassanien&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefHassanien&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=YoussefHassanien&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📈 Activity Graph
