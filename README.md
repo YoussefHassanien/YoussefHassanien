@@ -82,6 +82,15 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+### Healthcare & Medical Informatics
+
+![PACS](https://img.shields.io/badge/-PACS-2E8B57?style=flat-square&logo=hospital-o&logoColor=white)
+![RIS](https://img.shields.io/badge/-RIS-4682B4?style=flat-square&logo=stethoscope&logoColor=white)
+![HIS](https://img.shields.io/badge/-HIS-DC143C?style=flat-square&logo=hospital&logoColor=white)
+![DICOM](https://img.shields.io/badge/-DICOM-FF6347?style=flat-square&logo=medical-cross&logoColor=white)
+![FHIR](https://img.shields.io/badge/-FHIR-FF8C00?style=flat-square&logo=fire&logoColor=white)
+![HL7](https://img.shields.io/badge/-HL7-9932CC?style=flat-square&logo=healthcare&logoColor=white)
+
 ### Computer Graphics
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
