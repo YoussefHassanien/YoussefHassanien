@@ -114,7 +114,7 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefHassanien&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefHassanien&layout=donut&langs_count=9&theme=radical&hide_border=true" alt="Top Languages" />
       </td>
       <td>
         <img src="https://github-profile-trophy.vercel.app/?username=YoussefHassanien&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
