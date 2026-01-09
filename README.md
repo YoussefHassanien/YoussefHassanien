@@ -152,12 +152,14 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefHassanien&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefHassanien&layout=donut&langs_count=9&theme=radical&hide_border=true&cache_seconds=21600" alt="Top Languages" />
-      </td>
-      <td>
         <img src="https://streak-stats.demolab.com?user=YoussefHassanien&theme=radical&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
+    <tr>   
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefHassanien&layout=donut&langs_count=9&theme=radical&hide_border=true&cache_seconds=21600" alt="Top Languages" />
+      </td>   
+    </tr>  
   </table>
 </div>
 
