@@ -149,17 +149,20 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefHassanien&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=YoussefHassanien&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=YoussefHassanien&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefHassanien&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
       </td>
     </tr>
-    <tr>   
+    <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefHassanien&layout=donut&langs_count=9&theme=radical&hide_border=true&cache_seconds=21600" alt="Top Languages" />
-      </td>   
-    </tr>  
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefHassanien&layout=donut&langs_count=9&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=YoussefHassanien&theme=radical&no-frame=true&row=2&column=3&cache_seconds=86400" alt="GitHub Trophies" />
+      </td>
+    </tr>
   </table>
 </div>
 
