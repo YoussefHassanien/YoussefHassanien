@@ -37,9 +37,22 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-0C7D8B?style=flat-square&logo=grpc&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-6E6E6E?style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-FF6347?style=flat-square)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square)
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![unittest](https://img.shields.io/badge/-unittest-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Frontend Development
 
@@ -49,6 +62,7 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square)
 
 ### Databases
 
@@ -57,6 +71,8 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Neon](<https://img.shields.io/badge/-Neon%20(Postgres)-0F172A?style=flat-square>)
 
 ### DevOps
 
@@ -68,6 +84,7 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### AI & Machine Learning
@@ -78,10 +95,26 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C9DB1?style=flat-square)
+
+### Computer Vision
+
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square)
+![OpenVINO](https://img.shields.io/badge/-OpenVINO-0071C5?style=flat-square)
+
+### MLOps
+
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/-Kubeflow-3D6DEF?style=flat-square&logo=kubeflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 ### Mobile Development
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/-Riverpod-0A7EA4?style=flat-square)
 
 ### Desktop Development
 
@@ -100,24 +133,29 @@ I'm a Biomedical and Healthcare Data Engineering student at Cairo University Fac
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
+### Software Practices
+
+![Architecture Design](https://img.shields.io/badge/-Architecture%20Design-6E6E6E?style=flat-square)
+![SOLID](https://img.shields.io/badge/-SOLID-2E7D32?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-1976D2?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-00796B?style=flat-square)
+![Unit/Integration Testing](https://img.shields.io/badge/-Unit%2FIntegration%20Testing-795548?style=flat-square)
+![Socket Programming](https://img.shields.io/badge/-Socket%20Programming-37474F?style=flat-square)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-512DA8?style=flat-square)
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YoussefHassanien&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefHassanien&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefHassanien&theme=radical&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefHassanien&layout=donut&langs_count=9&theme=radical&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefHassanien&layout=donut&langs_count=9&theme=radical&hide_border=true&cache_seconds=21600" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=YoussefHassanien&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+        <img src="https://streak-stats.demolab.com?user=YoussefHassanien&theme=radical&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
